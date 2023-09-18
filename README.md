@@ -64,3 +64,4 @@ The target of this analysis is the price of the houses so we will explore how di
 
 The figure above shows the relationship between the geographic location of the house and the relative price. We observed that houses with a lower price are located in the southern part of the map and the majority of these properties are not directly located by the water. On the other hand, we observed that higher prices are located in the middle part of the study area with the highest prices observed right by the water. We concluded that the spatial location of the house is a factor that directly affects its price. 
 
+* Full report and code can be provided upon request.
