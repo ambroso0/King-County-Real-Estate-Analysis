@@ -60,3 +60,7 @@ The target of this analysis is the price of the houses so we will explore how di
 
 - The sqft variables are correlated to each other as their sum give the total surface of the house.   
 
+![image](https://github.com/ambroso0/King-County-Real-Estate-Analysis/assets/38117605/76fe70c0-665a-4585-965e-5a315b3a0bc1)
+
+The figure above shows the relationship between the geographic location of the house and the relative price. We observed that houses with a lower price are located in the southern part of the map and the majority of these properties are not directly located by the water. On the other hand, we observed that higher prices are located in the middle part of the study area with the highest prices observed right by the water. We concluded that the spatial location of the house is a factor that directly affects its price. 
+
